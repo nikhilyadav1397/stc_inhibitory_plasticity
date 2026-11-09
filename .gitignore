@@ -1,0 +1,17 @@
+__pycache__/
+scripts/__pycache__/
+tmp/
+output/
+.ipynb_checkpoints/
+*_data*/
+data_*/
+benchmark_*/
+extract/*.txt
+reward_consolidation/
+.reward_consolidation/
+*.pyc
+simulations/
+plots/
+
+.venv/
+*.py[cod]
